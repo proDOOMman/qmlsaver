@@ -1,0 +1,13 @@
+Source: qmlsaver
+Section: x11
+Priority: optional
+Maintainer: Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>
+Build-Depends: debhelper (>= 7), libqt4-dev
+Standards-Version: 3.8.3
+Homepage: http://qmlsaver.shell.tor.hu/
+
+Package: qmlsaver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt4-declarative, libqt4-declarative-particles
+Description: Screensaver with modules
+ written in Qt4/QML

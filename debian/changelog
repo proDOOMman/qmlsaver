@@ -1,0 +1,53 @@
+qmlsaver (0.1-1~maverick9) maverick; urgency=low
+
+  * Rebuild for qt-4.7.0-rc1
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Sun, 05 Sep 2010 17:38:22 +0400
+
+qmlsaver (0.1-1~maverick8) maverick; urgency=low
+
+  * Another background fix
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Sat, 04 Sep 2010 10:46:31 +0400
+
+qmlsaver (0.1-1~maverick7) maverick; urgency=low
+
+  * Set black buckground
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Fri, 03 Sep 2010 15:11:53 +0400
+
+qmlsaver (0.1-1~maverick6) maverick; urgency=low
+
+  * Another fix
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Thu, 02 Sep 2010 13:10:07 +0400
+
+qmlsaver (0.1-1~maverick5) maverick; urgency=low
+
+  * Fixed links
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Thu, 02 Sep 2010 08:40:07 +0400
+
+qmlsaver (0.1-1~maverick4) maverick; urgency=low
+
+  * Added support of KDE4
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Thu, 02 Sep 2010 00:25:20 +0400
+
+qmlsaver (0.1-1~maverick3) maverick; urgency=low
+
+  * Fix2
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Sat, 28 Aug 2010 23:20:31 +0400
+
+qmlsaver (0.1-1~maverick2) maverick; urgency=low
+
+  * Fix
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Sat, 28 Aug 2010 22:56:08 +0400
+
+qmlsaver (0.1-1~maverick1) maverick; urgency=low
+
+  * Initial release
+
+ -- Stanislav (proDOOMman) Kosolapov <prodoomman@shell.tor.hu>  Sat, 28 Aug 2010 22:40:48 +0400

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=QMLSaver
+Exec=qmlsaver.kss
+Icon=preferences-desktop-screensaver
+Type=Service
+X-KDE-ServiceTypes=ScreenSaver
+Actions=InWindow;Root;Setup;
+
+[Desktop Action InWindow]
+Name=Display in specified window
+Exec=qmlsaver.kss -window-id %w
+NoDisplay=true
+
+[Desktop Action Root]
+Name=Display in root window
+Exec=qmlsaver.kss -root
+NoDisplay=true
+
+[Desktop Action Setup]
+Name=Display setup dialog
+Exec=qmlsaver.kss -setup
+Icon=kscreensaver
+X-Ubuntu-Gettext-Domain=desktop_kdeartwork

@@ -1,0 +1,4 @@
+qmls/* usr/share/qmlsaver/qmls/
+qmlsaver.desktop usr/share/applications/screensavers/
+qmlsaver usr/lib/xscreensaver
+qmlsaver-kde.desktop usr/share/kde4/services/ScreenSavers/

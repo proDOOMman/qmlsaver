@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=QMLSaver
+Comment=Screensaver
+TryExec=qmlsaver
+Exec=qmlsaver -root
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;

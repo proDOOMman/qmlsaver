@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<configuration>
+<item name="bgcolor" type="color" default="Black" trans_ru="Цвет фона">Background color</item>
+<item name="segmentImg" type="file" default="segment.png" trans_ru="Рисунок сегмента">Segment image</item>
+<item name="dotFile" type="file" default="content/dot.png" trans_ru="Рисунок точки">Dot image</item>
+<item name="animSpeed" type="integer" default="500" trans_ru="Скорость анимации">Animation speed</item>
+<item name="clockScale" type="float" default="0.9" trans_ru="Масштаб">Scale</item>
+<item name="upperText" type="string" default="" trans_ru="Надпись сверху">Upper text</item>
+</configuration>
+
